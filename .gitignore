@@ -4,6 +4,9 @@
 *.swp
 *.swo
 
+# Runtime artifacts
+*.pid
+
 # Node
 node_modules/
 dist/
